@@ -1,0 +1,176 @@
+{
+   "title":"Mañanejor",
+   "artista":[
+      "Chystemc",
+      "Brizy"
+   ],
+   "album":"Sencillo",
+   "duracion":4.15, //se mide en minutos
+   "año":"2018"
+}
+
+{
+   "title":"No Me Dijeron",
+   "artista":[
+      "Santa Fe Klan",
+      "Yoss Bones"
+   ],
+   "album":"Sencillo",
+   "duracion":3.08, //se mide en minutos
+   "año":"2019"
+}
+
+{
+   "title":"Gangsta Nation",
+   "artista":[
+      "Westside Connection"
+   ],
+   "album":"Terrorist Threats",
+   "duracion":4.53, //se mide en minutos
+   "año":"2003"
+}
+
+{
+   "title":"Get Your Walk On",
+   "artista":[
+      "Xzibit"
+   ],
+   "album":"Restless",
+   "duracion":4.53, //se mide en minutos
+   "año":"2000"
+}
+
+{
+   "title":"Stan",
+   "artista":[
+      "Eminem",
+      "Dido"
+   ],
+   "album":"The Marshall Mathers LP",
+   "duracion":6.44, //se mide en minutos
+   "año":"2001"
+}
+
+{
+   "title":"On Datop",
+   "artista":[
+      "Canserbero",
+      "Lil Supa",
+      "Kapu"
+   ],
+   "album":"Can + Zoo Indigo",
+   "duracion":2.23, //se mide en minutos
+   "año":"2008"
+}
+
+{
+   "title":"Te quiero",
+   "artista":[
+      "Canserbero",
+      "Liana Malva"
+   ],
+   "album":"Sencillo",
+   "duracion":3.13, //se mide en minutos
+   "año":"2008"
+}
+
+{
+   "title":"Viento",
+   "artista":[
+      "Swing Original Monks"
+   ],
+   "album":"Sencillo",
+   "duracion":3.49, //se mide en minutos
+   "año":"2016"
+}
+
+{
+   "title":"Ascension",
+   "artista":[
+      "La Maquina Camaleon"
+   ],
+   "album":"Amarilla",
+   "duracion":3.08, //se mide en minutos
+   "año":"2017"
+}
+
+{
+   "title":"Verdugo",
+   "artista":[
+      "Zona Ganjah"
+   ],
+   "album":"Proof",
+   "duracion":2.56, //se mide en minutos
+   "año":"2016"
+}
+
+{
+   "title":"Grandes pasos",
+   "artista":[
+      "Movimiento Original"
+   ],
+   "album":"La Edicion Espcial",
+   "duracion":3.38, //se mide en minutos
+   "año":"2010"
+}
+
+{
+   "title":"Maria Magdalena",
+   "artista":[
+      "Gaviria"
+   ],
+   "album":"Sencillo",
+   "duracion":3.29, //se mide en minutos
+   "año":"2017"
+}
+
+{
+   "title":"Invierno",
+   "artista":[
+      "Faruz Feet",
+      "Proof"
+   ],
+   "album":"Faruz Vs. Proof",
+   "duracion":3.38, //se mide en minutos
+   "año":"2020"
+}
+
+
+{
+   "title":"The Real Slim Shady",
+   "artista":[
+      "Eminem"
+   ],
+   "album":"The Marshall Mathers LP",
+   "duracion":4.44, //se mide en minutos
+   "año":"2001"
+}
+
+{
+   "title":"Morenita",
+   "artista":[
+      "Curare"
+   ],
+   "album":"Radical Accion",
+   "duracion":4.09, //se mide en minutos
+   "año":"2006"
+}
+
+{
+   "title":"Quitate Tu Pa Ponerme Yo",
+   "artista":[
+      "Eddie Dee",
+      "Daddy Yankee",
+      "Gallego",
+      "Tego Calderon",
+      "Voltio",
+      "Ivy Queen",
+      "Jhonny Prez",
+      "Wiso G",
+      "Vico C"
+   ],
+   "album":"12 Discipulos",
+   "duracion":4.09, //se mide en minutos
+   "año":"2004"
+}
+
