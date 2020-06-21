@@ -6,7 +6,8 @@
    ],
    "album":"Sencillo",
    "duracion":4.15, //se mide en minutos
-   "año":"2018"
+   "año":"2018",
+   "genero": "Rap"
 }
 
 {
@@ -17,7 +18,8 @@
    ],
    "album":"Sencillo",
    "duracion":3.08, //se mide en minutos
-   "año":"2019"
+   "año":"2019",
+   "genero": "Rap"
 }
 
 {
@@ -26,8 +28,12 @@
       "Westside Connection"
    ],
    "album":"Terrorist Threats",
+   "productor":[
+      "Fredwreck"
+   ],
    "duracion":4.53, //se mide en minutos
-   "año":"2003"
+   "año":"2003",
+   "genero": "HipHop/Rap"
 }
 
 {
@@ -37,8 +43,10 @@
    ],
    "album":"Restless",
    "duracion":4.53, //se mide en minutos
-   "año":"2000"
+   "año":"2000",
+   "genero": "HipHop/Rap"
 }
+
 
 {
    "title":"Stan",
@@ -47,9 +55,15 @@
       "Dido"
    ],
    "album":"The Marshall Mathers LP",
+   "productor":[
+   "Dj Mark the 45 King",
+   "Eminem"
+   ],
    "duracion":6.44, //se mide en minutos
-   "año":"2001"
+   "año":"2001",
+   "genero": "HipHop/Rap"
 }
+
 
 {
    "title":"On Datop",
@@ -60,8 +74,10 @@
    ],
    "album":"Can + Zoo Indigo",
    "duracion":2.23, //se mide en minutos
-   "año":"2008"
+   "año":"2008",
+   "genero": "Rap"
 }
+
 
 {
    "title":"Te quiero",
@@ -71,7 +87,9 @@
    ],
    "album":"Sencillo",
    "duracion":3.13, //se mide en minutos
-   "año":"2008"
+   "año":"2008",
+   "genero": "Rap"
+}
 }
 
 {
@@ -81,7 +99,8 @@
    ],
    "album":"Sencillo",
    "duracion":3.49, //se mide en minutos
-   "año":"2016"
+   "año":"2016",
+   "genero": "Indie"
 }
 
 {
@@ -91,17 +110,20 @@
    ],
    "album":"Amarilla",
    "duracion":3.08, //se mide en minutos
-   "año":"2017"
+   "año":"2017",
+   "genero": "Indie"
 }
+
 
 {
    "title":"Verdugo",
    "artista":[
-      "Zona Ganjah"
+      "Proof"
    ],
-   "album":"Proof",
+   "album":"Verdugo",
    "duracion":2.56, //se mide en minutos
-   "año":"2016"
+   "año":"2016",
+   "genero": "Rap"
 }
 
 {
@@ -111,7 +133,8 @@
    ],
    "album":"La Edicion Espcial",
    "duracion":3.38, //se mide en minutos
-   "año":"2010"
+   "año":"2010",
+   "genero": "Rap"
 }
 
 {
@@ -121,7 +144,8 @@
    ],
    "album":"Sencillo",
    "duracion":3.29, //se mide en minutos
-   "año":"2017"
+   "año":"2017",
+   "genero": "Rap"
 }
 
 {
@@ -131,8 +155,12 @@
       "Proof"
    ],
    "album":"Faruz Vs. Proof",
+   "productor":[
+    "Faruz Feet"
+   ],
    "duracion":3.38, //se mide en minutos
-   "año":"2020"
+   "año":"2020",
+   "genero": "Rap"
 }
 
 
@@ -142,8 +170,13 @@
       "Eminem"
    ],
    "album":"The Marshall Mathers LP",
+   "productor":[
+    "Dr. Dre",
+    "Mel-Man"
+   ],
    "duracion":4.44, //se mide en minutos
-   "año":"2001"
+   "año":"2001",
+   "genero": "HipHop/Rap" 
 }
 
 {
@@ -153,7 +186,8 @@
    ],
    "album":"Radical Accion",
    "duracion":4.09, //se mide en minutos
-   "año":"2006"
+   "año":"2006",
+   "genero": "Rock"
 }
 
 {
@@ -170,7 +204,12 @@
       "Vico C"
    ],
    "album":"12 Discipulos",
+   "productor":[
+      "The Majestic",
+      "Mr. G"
+   ],
    "duracion":4.09, //se mide en minutos
-   "año":"2004"
+   "año":"2004",
+   "genero": "Reggaeton"
 }
 
